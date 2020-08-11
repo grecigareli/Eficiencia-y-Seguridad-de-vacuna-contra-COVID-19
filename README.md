@@ -1,2 +1,2 @@
-# Ejemplo-uno-de-pagina-web
-Esta es una plantilla de una posible pagina web para clubes de ciencia méxico challenge 2020
+# Clubes-de-ciencia-challenge-
+esta es una plantilla para pagina web de clubes challenge 2020
